@@ -1,7 +1,7 @@
 INFO-5139 Application Project – Product Backlog
 
 This folder contains:
-- User stories documented in PDF and DOCX format
+- User stories documented in DOCX format
 - All user stories are tracked using GitHub Issues
 
 GitHub repository (Product Backlog & Issue Tracker):
